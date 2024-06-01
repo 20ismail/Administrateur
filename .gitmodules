@@ -1,3 +1,6 @@
 [submodule "Administrateur"]
 	path = Administrateur
 	url = https://github.com/20ismail/Administrateur
+[submodule "Admin"]
+	path = Admin
+	url = https://github.com/20ismail/Administrateur.git
